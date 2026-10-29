@@ -1,0 +1,21 @@
+cuisine,rated_restaurants,avg_rating,rating_gap
+Ice Cream,2962,4.25,0.36
+Healthy Food,1112,4.13,0.24
+Desserts,6193,4.11,0.22
+Sweets,1586,4.07,0.18
+Bakery,3349,4.02,0.13
+Beverages,5283,3.99,0.09
+American,2086,3.97,0.08
+Continental,1946,3.93,0.04
+Snacks,4963,3.93,0.03
+Punjabi,1231,3.91,0.01
+South Indian,6433,3.9,0.01
+Fast Food,3848,3.89,-0.01
+Italian,2395,3.86,-0.03
+Mughlai,1772,3.84,-0.05
+North Indian,14939,3.82,-0.07
+Pizzas,4027,3.81,-0.08
+Arabian,1148,3.8,-0.09
+Chinese,14002,3.8,-0.09
+Indian,8617,3.8,-0.1
+Biryani,6598,3.74,-0.15

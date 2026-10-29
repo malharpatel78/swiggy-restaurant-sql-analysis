@@ -1,0 +1,11 @@
+{
+  "title": "Swiggy Restaurant Market Analysis",
+  "subtitle": "Where Swiggy's 148,000 restaurant listings sit across India, what they serve, what they charge, and which cities and cuisines earn the best ratings.",
+  "author": "Malhar Patel",
+  "repo": "https://github.com/malharpatel78/swiggy-restaurant-sql-analysis",
+  "currency": "₹",
+  "stack": ["SQLite", "CTEs", "Window functions", "Recursive CTE", "Python (pandas)", "Chart.js"],
+  "database": "swiggy.db",
+  "dataset": {"name": "Swiggy Restaurants Dataset (Kaggle, Ashish Jangra)", "url": "https://www.kaggle.com/datasets/ashishjangra27/swiggy-restaurants-dataset", "rows": "148,541 raw listings"},
+  "raw_tables": [{"table": "swiggy_raw", "file": "swiggy.csv"}]
+}

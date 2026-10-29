@@ -1,0 +1,8 @@
+check_name,rows_affected,action
+Raw rows loaded,148541,none
+Empty row (name and all fields = 'NA'),86,dropped
+Duplicate listing (name + area + address),13,kept first id
+Rating shown as --  (too few reviews),87014,"kept, rating set to NULL"
+"City field holds ""area,city""",101712,split into area and city
+"Cost for two missing or outside Rs 50-5,000",437,cost set to NULL
+Clean restaurant rows,148442,final table
